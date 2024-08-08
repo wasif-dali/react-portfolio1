@@ -62,4 +62,12 @@ a{
 .nav-link{
     width :2rem;
 }
+
+.nav-link img {
+    width :2rem;
+}
+
+.page-title{
+    display:none 2rem;
+}
 }
