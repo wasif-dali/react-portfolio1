@@ -1,0 +1,8 @@
+#playerstats{
+    width:15rem;
+    height: 4rem;
+    position: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    top:3rem;
+}
