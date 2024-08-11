@@ -3,7 +3,7 @@
     display: flex;
     align-items: flex-start;
     top: 3rem;
-    gap:1.05625rem;
+    gap: 1.5625rem;
     left:50%
 }
 
@@ -46,7 +46,7 @@ a{
 .nav-link-current{
     opacity: 1;
 }
-@media (max-width:1100px){
+@media (max-width: 1100px){
     .nav-about,
     .nav-skills,
     .nav-projects,
@@ -68,6 +68,6 @@ a{
 }
 
 .page-title{
-    display:none 2rem;
+    display:none;
 }
 }

@@ -10,6 +10,7 @@ const PlayerStats= () =>{
         <span id="player_lines_thick"></span>
         <span id="player_lines_thin"></span>
     </div>
+    <h2>Fullstack Developer</h2>
     </div>
   );
 } ;
