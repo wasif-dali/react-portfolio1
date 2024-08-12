@@ -27,14 +27,14 @@ align-items:center;
 
 #playerStats_lines_thick{
     display: block; 
-    background-color:white;
-    height:0.2rem;
-    width:8.75;
+    background-color:lightgray;
+    height:0.1rem;
+    width:8.75rem;
 }
 #playerStats_lines_thin{
     display: block;
     
-    background-color:white;
+    background-color:lightgray;
     height:0.1rem;
     width:6.2;
 }
