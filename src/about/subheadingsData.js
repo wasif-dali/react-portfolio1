@@ -35,7 +35,7 @@ const subheadingsData = {
     ],
     3: [
       {
-        title: "2022 Front End Developer",
+        title: "2022 Backend Developer  Developer",
         content: (
           <>
             <p>
