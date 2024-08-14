@@ -13,7 +13,7 @@ const subheadingsData = {
     ],
     2: [
       {
-        title: "2024 Masters Degree",
+        title: "2022 Masters Degree",
         content: (
           <>
             <p>
