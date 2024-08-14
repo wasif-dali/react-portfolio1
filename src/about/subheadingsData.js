@@ -13,7 +13,7 @@ const subheadingsData = {
     ],
     2: [
       {
-        title: "2016 Masters Degree",
+        title: "2024 Masters Degree",
         content: (
           <>
             <p>
@@ -23,7 +23,7 @@ const subheadingsData = {
         ),
       },
       {
-        title: "2014 Bachelors Degree",
+        title: "2020 Bachelors Degree",
         content: (
           <>
             <p>
