@@ -1,18 +1,17 @@
-import react from "react"
-import "../styles/playerStats.css"
+import React from "react";
+import "../styles/playerStats.css";
 
-
-const PlayerStats= () =>{
-  return(
-  <div id="playerStats">
-        <h1>WASIF AlI LEVEL 31</h1>
-    <div id="playerStats_lines">
-        <span id="player_lines_thick"></span>
-        <span id="player_lines_thin"></span>
-    </div>
-    <h2>Fullstack Developer</h2>
+const PlayerStats = () => {
+  return (
+    <div id="playerStats">
+      <h1>JOHN DOE LEVEL 31</h1>
+      <div id="playerStats__lines">
+        <span id="playerStats__lines__thick"></span>
+        <span id="playerStats__lines__thin"></span>
+      </div>
+      <h2>Fullstack Developer</h2>
     </div>
   );
-} ;
+};
 
 export default PlayerStats;

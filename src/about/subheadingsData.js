@@ -5,7 +5,7 @@ const subheadingsData = {
         content: (
           <>
             <p>
-              webdeveloper 
+              Web Developer
             </p>
           </>
         ),
