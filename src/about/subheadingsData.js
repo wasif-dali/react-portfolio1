@@ -55,7 +55,7 @@ const subheadingsData = {
         ),
       },
       {
-        title: "2017 IT Consultant",
+        title: "2017 join ",
         content: (
           <>
             <p>
