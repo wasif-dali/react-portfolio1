@@ -17,7 +17,7 @@ const subheadingsData = {
         content: (
           <>
             <p>
-            
+          Master degree in computer Science "MCA"master of computer application 
             </p>
           </>
         ),
