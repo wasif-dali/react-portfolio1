@@ -5,7 +5,7 @@ const subheadingsData = {
         content: (
           <>
             <p>
-              Web Developer
+            I am a skilled web developer with expertise in both front-end and back-end technologies. My proficiency spans across a wide range of languages and frameworks, including HTML, CSS, JavaScript, TypeScript, Node.js, Angular.js, Next.js, and React Native. I also have extensive experience with databases like MongoDB, MySQL, and SQL, and I’m adept at using Python with Django and Flask for backend development.
             </p>
           </>
         ),
@@ -17,7 +17,7 @@ const subheadingsData = {
         content: (
           <>
             <p>
-          Master degree in computer Science "MCA"master of computer application 
+          Master degree in computer Science "MCA"master of computer application
             </p>
           </>
         ),
