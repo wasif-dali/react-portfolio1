@@ -1,11 +1,13 @@
-import React, { Component } from 'react'
+import React from "react";
+import ContactMenu from "./ContactMenu";
+import "../styles/contact.css";
 
-export default class Contact extends Component {
-  render() {
-    return (
-      <div>
-        
-      </div>
-    )
-  }
-}
+const Contact = () => {
+  return (
+    <>
+      <ContactMenu />
+    </>
+  );
+};
+
+export default Contact;

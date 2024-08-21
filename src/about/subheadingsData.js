@@ -47,33 +47,29 @@ const subheadingsData = {
   ],
   3: [
     {
-      title: "2021 Backend Developer ",
-      content: (
-        <>
-          <p> </p>
-        </>
-      ),
-    },
-    {
-      title: "2020 Graduate ",
-      content: (
-        <>
-          <p>graduate in computer science</p>
-        </>
-      ),
-    },
-    {
-      title: "2022 Backend Developer  ",
+      title: "2022 Backend Developer ",
       content: (
         <>
           <p>
             Learn backend development with expertise in JavaScript, Node.js,
-            MongoDB, and Express.js. I specialize in creating robust, scalable
-            server-side applications, focusing on efficiency and performance. My
-            skill set includes designing and managing databases, developing
-            RESTful APIs, and ensuring seamless integration between front-end
-            and back-end systems. I am committed to leveraging my knowledge to
-            build reliable and high-performing backend solutions.
+            MongoDB, and Express.js. I create server-side applications that are
+            scalable, efficient, and high-performing. My expertise includes
+            database design and management, RESTful API development, and
+            seamless integration between front-end and back-end systems.
+          </p>
+        </>
+      ),
+    },
+    {},
+    {
+      title: "2024 Full Stack Developer  ",
+      content: (
+        <>
+          <p>
+            As an adept in both front-end and back-end development, I am a
+            full-stack developer who thrives on embracing new technologies and
+            collaborating with teams to tackle complex challenges, delivering
+            dynamic web applications that offer exceptional user experiences.
           </p>
         </>
       ),
