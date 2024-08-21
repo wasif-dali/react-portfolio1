@@ -33,7 +33,7 @@ const projects = {
   },
   3: {
     title: "E-Commerce",
-    image: projectThree,
+    image: projectThree,    
     description: (
       <>
         <p>
@@ -42,7 +42,6 @@ const projects = {
       </>
     ),
     github: "https://github.com",
-    demo: "https://netlify.com",
   },
 };
 

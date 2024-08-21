@@ -74,7 +74,9 @@ const subheadingsData = {
         </>
       ),
     },
+  
   ],
+  
 };
 
 export default subheadingsData;
