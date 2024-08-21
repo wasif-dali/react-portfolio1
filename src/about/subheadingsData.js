@@ -5,10 +5,9 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            I specialize in full-stack development, focusing on creating
-            efficient and scalable applications. I oversee both front-end and
-            back-end development to create seamless, high-performance web
-            solutions.
+            Hi, I'm Wasif Ali, a passionate full-stack developer with a
+            postgraduate degree in computer science. I focus on creating dynamic
+            and responsive web applications using modern technologies.
           </p>
         </>
       ),
@@ -20,8 +19,12 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Master degree in computer Science "MCA"master of computer
-            application
+            My Master of Computer Applications (MCA) program helped me gain a
+            deeper understanding of advanced computing concepts and software
+            development methodologies. This program allowed me to learn about
+            software architecture, data structures, and application development.
+            Collaborative projects and research helped me develop strong
+            analytical and technological skills.
           </p>
         </>
       ),
@@ -31,8 +34,12 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Bachelors degree in computer Science "BCA" Bachelors of computer
-            application
+            My Bachelor of Computer Applications (BCA) degree provided a strong
+            foundation in computer science and software development. Throughout
+            my studies, I gained practical experience in programming, database
+            management, and web development. My BCA experience honed my critical
+            thinking skills and instilled a passion for technology, motivating
+            me to learn and innovate.
           </p>
         </>
       ),
@@ -43,7 +50,7 @@ const subheadingsData = {
       title: "2021 Backend Developer ",
       content: (
         <>
-          <p></p>
+          <p> </p>
         </>
       ),
     },
